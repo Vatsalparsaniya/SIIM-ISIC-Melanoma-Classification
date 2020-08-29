@@ -23,11 +23,16 @@ import matplotlib.pyplot as plt
 from colorama import Fore, Back, Style
 ```
 
-    [33mWARNING: You are using pip version 20.1.1; however, version 20.2.2 is available.
-    You should consider upgrading via the '/opt/conda/bin/python3.7 -m pip install --upgrade pip' command.[0m
-    Requirement already satisfied: colorama in /opt/conda/lib/python3.7/site-packages (0.4.3)
-    [33mWARNING: You are using pip version 20.1.1; however, version 20.2.2 is available.
-    You should consider upgrading via the '/opt/conda/bin/python3.7 -m pip install --upgrade pip' command.[0m
+    [33mWARNING: You are using pip version 20.1.1; however, version 20.2.2 is available.
+
+    You should consider upgrading via the '/opt/conda/bin/python3.7 -m pip install --upgrade pip' command.[0m
+
+    Requirement already satisfied: colorama in /opt/conda/lib/python3.7/site-packages (0.4.3)
+
+    [33mWARNING: You are using pip version 20.1.1; however, version 20.2.2 is available.
+
+    You should consider upgrading via the '/opt/conda/bin/python3.7 -m pip install --upgrade pip' command.[0m
+
 
 
 ## Configuration
