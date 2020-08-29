@@ -23,17 +23,6 @@ import matplotlib.pyplot as plt
 from colorama import Fore, Back, Style
 ```
 
-    [33mWARNING: You are using pip version 20.1.1; however, version 20.2.2 is available.
-
-    You should consider upgrading via the '/opt/conda/bin/python3.7 -m pip install --upgrade pip' command.[0m
-
-    Requirement already satisfied: colorama in /opt/conda/lib/python3.7/site-packages (0.4.3)
-
-    [33mWARNING: You are using pip version 20.1.1; however, version 20.2.2 is available.
-
-    You should consider upgrading via the '/opt/conda/bin/python3.7 -m pip install --upgrade pip' command.[0m
-
-
 
 ## Configuration
 In order to be a proper cross validation with a meaningful overall CV score (aligned with LB score), **you need to choose the same** `IMG_SIZES`, `INC2019`, `INC2018`, and `EFF_NETS` **for each fold**. If your goal is to just run lots of experiments, then you can choose to have a different experiment in each fold. Then each fold is like a holdout validation experiment. When you find a configuration you like, you can use that configuration for all folds. 
@@ -104,7 +93,7 @@ CUTOUT = True
 # LOSS [ BinaryCrossentropy == True , Focal Loss == False ]
 BCE = False 
 ```
-
+---
 
 ```python
 if DEVICE == "TPU":
