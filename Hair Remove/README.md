@@ -5,6 +5,7 @@
 *  Method for hair remove using CV2 
    
 [Notebook](https://www.kaggle.com/vatsalparsaniya/melanoma-hair-remove)
+
 [Discussion](https://www.kaggle.com/c/siim-isic-melanoma-classification/discussion/165582)    
  
 ```python
@@ -28,7 +29,7 @@ def hair_remove(image):
 ```
 
 * this technique works on black-Hair only (Not white hair)
-#### check notebook [here](https://www.kaggle.com/vatsalparsaniya/melanoma-hair-remove) 
+
 ## Example of body hair remove with this method:
 ![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F2907842%2F167afd50ab11911426494c40b0dee656%2F4.png?generation=1594370870226580&amp;alt=media)
 ![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F2907842%2F03b23320df9ea9966efb09c2a60fc305%2F1.png?generation=1594370918408705&amp;alt=media)
