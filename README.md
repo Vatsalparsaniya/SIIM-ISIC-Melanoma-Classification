@@ -1,6 +1,6 @@
 # 🔬 SIIM-ISIC-Melanoma-Classification
 
-![Banner](Images/banner.png)
+![Banner](reports/figures/banner.png)
 
 ## 📝 Description
 

@@ -21,15 +21,15 @@ Here we are assuming the thereshold to be **0.5** to decide True-Positives, True
 
 ### GradCAMs of TP + FN in Validation Images
 
-![TP+FN](../Images/TP-FN.png)
+![TP+FN](../figures/TP-FN.png)
 
 ### GradCAMs of TN + FP in Validation Images
 
-![TN+FP](../Images/TN-FP.png)
+![TN+FP](../figures/TN-FP.png)
 
 ### GradCAMs of a Random Patient from Validation-set
 
-![random-patient](../Images/random-patient.png)
+![random-patient](../figures/random-patient.png)
 
 ## ✔ Helpful Resources
 
