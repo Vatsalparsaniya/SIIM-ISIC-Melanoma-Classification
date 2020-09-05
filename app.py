@@ -21,6 +21,14 @@ st.markdown("""
               </div>
             """,unsafe_allow_html=True)
 
+st.markdown("""
+              <div class="container">
+                <div class="alert alert-info">
+                  <strong>Info!</strong> Try these combinations <br> Efficientnet B1-384<br> Efficientnet B3-768<br> Efficientnet B4-768<br> Efficientnet B5-768<br> Efficientnet B6-512
+                </div>
+              </div>
+            """,unsafe_allow_html=True)
+
 
 IMG_SIZES = 768
 EFF_NETS = 5
